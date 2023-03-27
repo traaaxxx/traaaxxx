@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic programmer from India</h3>
 <hr>
 
-- 🌱 I’m currently learning **Java, Python**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **C, C++, Java, Python**
 

@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **C, C++, Java, Python**
+- 💬 Ask me about **C, C++, Java**
 
 - 📫 How to reach me **snehasish.nayak007@gmail.com**
 
